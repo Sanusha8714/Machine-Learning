@@ -21,6 +21,7 @@ The California Housing Dataset is used to explore different factors affecting ho
 - Number of Records: 20,640
 - Number of Original Columns: 10
 - Target Variable: median_house_value.
+  
 Dataset Features
 | Feature | Description |
 |---|---|
