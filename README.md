@@ -87,6 +87,7 @@ In this project, Linear Regression is used to predict median house prices based 
 
 ## 📈 Model Evaluation
 The model was evaluated by comparing actual house prices with predicted house prices using the following metrics:
+
 | Evaluation Metric | Result |
 |---|---:|
 | Mean Absolute Error (MAE) | 50,670.74 |
