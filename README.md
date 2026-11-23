@@ -23,6 +23,7 @@ The California Housing Dataset is used to explore different factors affecting ho
 - Target Variable: median_house_value
 Dataset Features
 | Feature | Description |
+|---|---|
 | `longitude` | Geographic longitude of the area |
 | `latitude` | Geographic latitude of the area |
 | `housing_median_age` | Median age of houses in the area |
